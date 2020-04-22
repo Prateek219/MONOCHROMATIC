@@ -36,7 +36,7 @@ to be done, __CS0__ and __CS1__ have to be treated as __CS1__ and __CS2__ of GLC
 CS3 don’t exist in the GLCD to be connected. You can delete the statements of CS2 and CS3 and use the MCU pins
 for other purposes.
 
-
+___
 
 #### In the GLCD.c file write the following program for checking GLCD:
 ```
@@ -49,5 +49,6 @@ glcdInit();
 glcdPutStr("The GLCD is working");
 }
 ```
-
+___
 ![Screenshot (130)](https://user-images.githubusercontent.com/64007722/79957168-d1561400-849e-11ea-86d2-dff0a3585031.png)
+___
