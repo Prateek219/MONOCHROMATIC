@@ -49,3 +49,5 @@ glcdInit();
 glcdPutStr("The GLCD is working");
 }
 ```
+
+![Screenshot (130)](https://user-images.githubusercontent.com/64007722/79957168-d1561400-849e-11ea-86d2-dff0a3585031.png)
